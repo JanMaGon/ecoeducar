@@ -107,6 +107,22 @@ Os Objetivos de Desenvolvimento Sustentável (ODS) contemplados são:
 - Programas Educativos
 - Painel Administrativo
 
+---
+
+## Aprendizados
+
+Durante o desenvolvimento deste projeto foram aplicados conceitos de:
+
+- Arquitetura MVC
+- Framework CodeIgniter 4
+- Controle de acesso por permissões (ACL)
+- CRUD completo
+- Upload de arquivos
+- Autenticação de usuários
+- Responsividade com Bootstrap 5
+- Integração entre PHP, JavaScript e MySQL
+
+---
 
 ## Licença
 
