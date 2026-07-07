@@ -6,7 +6,7 @@ O projeto tem como objetivo promover a educação ambiental por meio de um porta
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 O EcoEducar foi criado para facilitar o acesso da comunidade a informações sobre sustentabilidade e descarte correto de resíduos, incentivando a conscientização ambiental e a participação da população em ações educativas.
 
@@ -14,7 +14,7 @@ Além do portal público, o sistema possui um painel administrativo para gerenci
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 ### Site público
 
@@ -38,7 +38,7 @@ Além do portal público, o sistema possui um painel administrativo para gerenci
 
 ---
 
-## 🛠 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 ### Back-end
 
@@ -59,7 +59,7 @@ Além do portal público, o sistema possui um painel administrativo para gerenci
 
 ---
 
-## 📁 Estrutura do projeto
+## Estrutura do projeto
 
 ```text
 app/
@@ -74,39 +74,14 @@ spark
 
 ---
 
-## 🚀 Como executar o projeto
+## Como executar o projeto
 
 ### 1. Clone o repositório
 
 ```bash
 git clone https://github.com/JanMaGon/ecoeducar.git
 ```
-
-### 2. Entre na pasta
-
-```bash
-cd ecoeducar
-```
-
-### 3. Instale as dependências
-
-```bash
-composer install
-```
-
-### 4. Configure o ambiente
-
-Copie o arquivo:
-
-```text
-env
-```
-
-para
-
-```text
-.env
-```
+### 2. Configure o ambiente
 
 Configure:
 
@@ -114,27 +89,9 @@ Configure:
 - URL da aplicação
 - Ambiente (`CI_ENVIRONMENT`)
 
-### 5. Execute as migrations (caso existam)
-
-```bash
-php spark migrate
-```
-
-### 6. Inicie o servidor
-
-```bash
-php spark serve
-```
-
-A aplicação ficará disponível em:
-
-```
-http://localhost:8080
-```
-
 ---
 
-## 📚 Contexto acadêmico
+## Contexto acadêmico
 
 Este projeto foi desenvolvido como Trabalho de Extensão do curso de Tecnologia em Análise e Desenvolvimento de Sistemas da UNINTER.
 
@@ -145,7 +102,7 @@ Os Objetivos de Desenvolvimento Sustentável (ODS) contemplados são:
 
 ---
 
-## 📸 Telas
+## Telas
 
 - Página Inicial
 - Sobre o Projeto
@@ -154,15 +111,6 @@ Os Objetivos de Desenvolvimento Sustentável (ODS) contemplados são:
 - Programas Educativos
 - Painel Administrativo
 
----
-
-## 👩‍💻 Autora
-
-**Janise Machado Gonçalves**
-
-- GitHub: https://github.com/JanMaGon
-
----
 
 ## 📄 Licença
 
