@@ -63,14 +63,10 @@ Além do portal público, o sistema possui um painel administrativo para gerenci
 
 ```text
 app/
+painel/
 public/
+system/
 writable/
-tests/
-
-.env
-composer.json
-spark
-```
 
 ---
 
@@ -112,6 +108,6 @@ Os Objetivos de Desenvolvimento Sustentável (ODS) contemplados são:
 - Painel Administrativo
 
 
-## 📄 Licença
+## Licença
 
 Este projeto foi desenvolvido para fins acadêmicos.
